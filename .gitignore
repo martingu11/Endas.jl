@@ -1,1 +1,8 @@
+
+/__*
+/.vscode
+
 /Manifest.toml
+
+# Documentation
+/docs/build
