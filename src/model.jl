@@ -84,6 +84,5 @@ end
 
 # Model implementations
 
-include("models/pendulum.jl")
 include("models/lorenz95.jl")
 
